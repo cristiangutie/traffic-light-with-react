@@ -11,3 +11,36 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.red {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.yellow {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+}
+
+.green {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+
+.active {
+    box-shadow: 0 0 40px 20px white;
+}
+
+.traffic-light {
+    width: 250px;
+    height: 575px;
+    border-radius: 10px
+}
+
+.traffic-light-pole {
+    width: 25px;
+    height: 125px;
+}
